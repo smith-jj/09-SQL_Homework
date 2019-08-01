@@ -26,10 +26,9 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
         Imported each CSV file into the corresponding SQL table. 
 
 
-* Create a `.sql` file of your queries.
+* Create a `.sql` file of your queries. (Optional) Create a Jupyter Notebook of the bonus analysis. 
     ###### See Data_Analysis Foler, file 'Data_Analysis_queries'  
-    * (Optional) Create a Jupyter Notebook of the bonus analysis. 
-        
+
         III. Data Analysis  Once you have a complete database, do the following:  
 
             1. List the following details of each employee: employee number, last name, first name, gender, and salary.  
