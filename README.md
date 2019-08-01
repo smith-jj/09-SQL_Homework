@@ -12,7 +12,7 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 ## Submission  
 
 * Create an image file of your ERD.  
-## SEE ERD Folder
+# SEE ERD Folder
     I. Data Modeling  Inspect the CSVs and sketch out an ERD of the tables. 
     Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).  
 
@@ -21,12 +21,12 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 
 * Create a `.sql` file of your table schemata. 
-## SEE Data_Analysis Foler, file  'Table_Schemata'
+# SEE Data_Analysis Folder, file  'Table_Schemata'
     * Import each CSV file into the corresponding SQL table. 
 
 
 * Create a `.sql` file of your queries.  * (Optional) Create a Jupyter Notebook of the bonus analysis. 
- ## SEE Data_Analysis Foler, file 'Data_Analysis_queries'
+ # SEE Data_Analysis Foler, file 'Data_Analysis_queries'
     III. Data Analysis  Once you have a complete database, do the following:  
 
     1. List the following details of each employee: employee number, last name, first name, gender, and salary.  
